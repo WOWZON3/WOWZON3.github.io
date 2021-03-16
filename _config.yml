@@ -7,3 +7,5 @@ defaults:
       path: "" # empty string for all files
     values:
       layout: "default"
+
+theme: jekyll-theme-slate
